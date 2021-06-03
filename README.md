@@ -1,4 +1,4 @@
-# DataMiningFinalProject
+# Clickbait-Classifier
 
 ## Problem Statement
 
